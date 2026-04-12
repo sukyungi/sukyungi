@@ -18,7 +18,7 @@ I also believe intuitive user flows and natural interactions are just as importa
 |--------|------------|
 | Mar 2022 – Feb 2026 | B.S. in Computer Engineering, Dankook University |
 | Aug 2023 – Dec 2023 | Exchange Student, University of the Incarnate Word |
-| Sep 2024 – Present | Undergraduate Researcher, Database Lab, Dankook University |
+| Sep 2024 – Feb 2026 | Undergraduate Researcher, Database Lab, Dankook University |
 | Sep 2025 – Dec 2025 | TABA Academy, 10th Cohort |
 | Dec 2025 – Present | Pro Digital Academy, 7th Cohort |
 
